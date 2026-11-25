@@ -23,4 +23,4 @@ Product direction, scope and delivery: Nada Gamal.
 - Other-SEO detection covers four well-known plugins; with others, tick or untick "force" yourself.
 - The linker does not judge relevance: bad rules produce bad links. Review a few pages after adding rules.
 - FAQPage schema is not here; the FAQ widget in NG Studio Pro is the place for it.
-- Not tested with Elementor/Bricks content or on a live host.
+- Smoke-tested with real Elementor 4.4.2: schema is printed on an Elementor-built post. Not tested in the Elementor editor, with Bricks, or on a live host.
